@@ -1,0 +1,13 @@
+cell_type_l1,signature,feature_label
+T,T-cell exhaustion,Exhaustion
+T,Treg suppressive,Treg suppressive
+T,CD8 effector / cytolytic,Effector / Cytolytic
+Macro / DC,Myeloid immunosuppressive,Myeloid immunosuppressive
+Macro / DC,SPP1 TAM,SPP1 TAM
+Macro / DC,TREM2 TAM,TREM2 TAM
+Macro / DC,Glycolysis,Glycolysis
+Macro / DC,Macro/DC MHC-II presentation,MHC-II presentation
+Fibroblast,TGF-beta response,TGFβ response
+Fibroblast,ECM remodeling,ECM remodeling
+Epithelial (malig.),EMT,EMT
+Epithelial (malig.),Immunogenic cell death,Immunogenic cell death
