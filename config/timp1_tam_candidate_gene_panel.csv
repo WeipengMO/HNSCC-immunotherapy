@@ -1,0 +1,31 @@
+panel,gene
+ECM,C1R
+ECM,C2
+ECM,CFH
+ECM,VWF
+ECM,MMP11
+ECM,TIMP1
+DNA repair,ERCC1
+DNA repair,ERCC3
+DNA repair,ERCC4
+DNA repair,RFC4
+DNA repair,RFC5
+DNA repair,FEN1
+DNA repair,POLB
+EMT,PDLIM4
+EMT,MMP2
+EMT,SPARC
+EMT,FN1
+EMT,COL1A1
+EMT,COL1A2
+EMT,COL3A1
+EMT,COL6A3
+EMT,ITGB3
+EMT,SPP1
+Metabolism,NDUFB4
+Metabolism,MDH1
+Metabolism,FH
+Metabolism,ACO2
+Metabolism,PDHB
+Metabolism,IDH2
+Metabolism,GPX4
