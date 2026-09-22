@@ -1,0 +1,14 @@
+score,title,output_stem
+timp1_tam_state,TIMP1+ TAM score,timp1_tam_score_overview
+emt,All-tissue EMT score,all_tissue_emt_overview
+hypoxia,All-tissue Hypoxia score,all_tissue_hypoxia_overview
+glycolysis,All-tissue Glycolysis score,all_tissue_glycolysis_overview
+angiogenesis,All-tissue Angiogenesis score,all_tissue_angiogenesis_overview
+tnf_nfkb,All-tissue TNF–NF-κB score,all_tissue_tnf_nfkb_overview
+inflammatory,All-tissue Inflammatory score,all_tissue_inflammatory_overview
+il6_jak_stat3,All-tissue IL6–JAK–STAT3 score,all_tissue_il6_jak_stat3_overview
+egfr,All-tissue EGFR score,all_tissue_egfr_overview
+proliferation,All-tissue Proliferation score,all_tissue_proliferation_overview
+antigen_presentation,All-tissue Antigen presentation score,all_tissue_antigen_presentation_overview
+inflammatory_tam_ligands,All-tissue Inflammatory TAM ligands score,all_tissue_inflammatory_tam_ligands_overview
+antigen_presentation_loss,All-tissue Antigen presentation loss score,all_tissue_antigen_presentation_loss_overview
